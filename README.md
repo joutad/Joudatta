@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joudatta
+- 👋 Hi, I’m @joutad
 - 👀 I’m interested in learning programming, and eventually being able to build an application or game.
 - 🌱 I’m currently learning at the University of Guelph
 - 💞️ I’m looking to collaborate on nothing at the moment, but things will change once I learn some more.
