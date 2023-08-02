@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @joutad
-- 👀 I’m interested in learning programming, and eventually being able to build an application or game.
-- 🌱 I’m currently learning at the University of Guelph
-- 💞️ I’m looking to collaborate on nothing at the moment, but things will change once I learn some more.
-- 📫 How to reach me: 
+- 👋 Hi, I’m **@joutad**
+- 👀 I’m familiar with **fullstack development**, and learning more about **Blockchain** and **ML**.
+- 🌱 I’m currently learning at the **University of Guelph**
+- 💞️ I’m looking to collaborate on **anything**, please reach out to me if you want to collaborate.
+- 📫 How to reach me: _Will update soon..._
 
 <!---
 Joudatta/Joudatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
